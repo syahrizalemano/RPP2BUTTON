@@ -22,7 +22,7 @@ Saya Kira Ini Akan Bermanfaat Bagi Banyak Orang.. 😇.
 #
 ## Installation
 ### 𝗗𝗲𝗽𝗹𝗼𝘆 𝗼𝗻 𝗛𝗲𝗿𝗼𝗸𝘂
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/RyuuXS/ShinFile-Sharing)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/syahrizalemano/RPP2BUTTON)
 
 **Tonton Video Tutorial Ini di YouTube untuk Bantuan memasang di Heroku**<br>
 <a href="https://youtu.be/O2tieQgzYZg">
